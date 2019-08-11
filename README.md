@@ -1,7 +1,7 @@
 # STM32MotorDrive
 STM32で3相モータドライブ!
 
-  3phase motor drive with STM32F3 series. 
+  3phase motor drive with STM32F3 series!
 
 - 対象マイコンボード:
 
@@ -13,12 +13,12 @@ STM32で3相モータドライブ!
 
   Required VSI:
 
-  STEVAL-IPM[NN]B series.(eg, STEVAL-IPM15B)
+  STEVAL-IPM[NN]B series (eg, STEVAL-IPM15B)
 
 - 対象モータ:
 
   Motor type:
 
-  IM, PMSM(future work.)
+  IM, PMSM (future work.)
 
 
